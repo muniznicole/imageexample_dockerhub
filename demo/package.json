@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "proxy-middleware": "^0.15.0"
+  }
+}
